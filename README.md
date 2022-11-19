@@ -7,9 +7,9 @@ I started to work with technology because I believe that by building new things 
 I have been working as a software engineer for the last twelve years, with the most part of experience working on banking as a service and lending products. With strong knowledge and experience in Java (12 years of experience), I also have abilities to work with JavaScript and their frameworks: React, Redux, NodeJs, NextJs, React Native (4 years of experience) and with other languages too, such as Python and Go. In databases, I have worked with SQL Server, Oracle, DB2, MySQL, Postgres, MongoDb and SQLite.
 
 Learning new things and reading are my favorite things.
+<!--
 
 ## Contatos:
-<!--
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
